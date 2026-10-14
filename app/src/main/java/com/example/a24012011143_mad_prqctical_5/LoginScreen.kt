@@ -55,7 +55,8 @@ fun LoginScreen(
     ) {
         Spacer(modifier = Modifier.height(20.dp))
         Image(
-            painter = painterResource(id = R.drawable.guni_logo),
+            painter = painterResource(id =
+                R.drawable.guni_logo),
             contentDescription = "Logo",
             modifier = Modifier
                 .height(130.dp)
